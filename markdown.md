@@ -40,3 +40,46 @@ const route = routes[pathname] || routes[404];
 
 sudo apt update
 sudo apt-get upgrade code
+
+<!-- Conceito de herança em POO -->
+
+class Passaro {
+voar() {
+alert('voar')
+}
+}
+
+class Pato extends Passaro {
+constructor() {
+super()
+}
+}
+
+const pato = new Pato()
+pato.voar()
+
+<!-- Poliformismo em POO -->
+
+class Passaro {
+voar() {
+alert('Todo passaro pode voar')
+}
+}
+
+class Pato extends Passaro {
+constructor() {
+super()
+}
+
+voar() {
+alert('Menos o pato')
+}
+}
+
+<!-- como abrir um servidor com o node  -->
+
+- npm init -y
+- npm install lite-server
+- Entrar no 'package.json' e alterar a propriedade 'scripts' para:
+  - "start": "lite-server"
+- npm start
