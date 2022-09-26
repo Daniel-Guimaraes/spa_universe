@@ -29,7 +29,7 @@ Uma página simples, na onde desenvolvi para consolidadar conceitos novos que ap
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 50px;">
+<p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 100px;">
   <img alt="Banner do projeto para desktop" title="#SpaUniverse" src="./assets/banner.png" width="600px">
   <img alt="Banner do projeto para desktop" title="#SpaUniverse" src="./assets/banner-page2.png" width="600px">
   <img alt="Banner do projeto para desktop" title="#SpaUniverse" src="./assets/banner-page3.png" width="600px">
@@ -37,7 +37,7 @@ Uma página simples, na onde desenvolvi para consolidadar conceitos novos que ap
 
 ### Mobile
 
-<p align="center" style="display: flex; align-items: flex-start; gap: 50px; flex-wrap: wrap;">
+<p align="center" style="display: flex; align-items: flex-start; gap: 100px; flex-wrap: wrap;">
   <img alt="Banner do projeto para mobile com o tema claro" title="#SpaUniverse" src="./assets/banner-mobile.png" width="300px">
  <img alt="Banner do projeto para mobile com o tema claro" title="#SpaUniverse" src="./assets/mobile-page2.png" width="300px">
  <img alt="Banner do projeto para mobile com o tema claro" title="#SpaUniverse" src="./assets/mobile-page3.png" width="300px">
