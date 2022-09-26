@@ -47,7 +47,7 @@ Uma página simples, na onde desenvolvi para consolidadar conceitos novos que ap
 
 ### Vídeo da aplicação
 
-
+file:///home/daniel/Downloads/Conceito%20de%20SPA%20-%2026%20September%202022.mp4
 
 ## 🛠 Tecnologias
 
